@@ -2,6 +2,6 @@ java-mode git:https://github.com/scaled/java-mode.git Provides language support 
 maven-project git:https://github.com/scaled/maven-project.git Provides Maven project support for Scaled.
 sbt-project git:https://github.com/scaled/sbt-project.git Provides SBT project support for Scaled.
 scala-mode git:https://github.com/scaled/scala-mode.git Provides language support for Scala.
-scaled-editor git:https://github.com/scaled/scaled-editor.git The core of the Scaled editor.
+scaled git:https://github.com/scaled/scaled.git The Scaled editor. The main thing. The big kahuna.
 todo-mode git:https://github.com/scaled/todo-mode.git Provides support for editing TODO files.
 xml-mode git:https://github.com/scaled/xml-mode.git Provides support for editing XML files.
