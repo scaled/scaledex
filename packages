@@ -1,4 +1,5 @@
 java-mode git:https://github.com/scaled/java-mode.git Provides language support for Java.
+markdown-mode git:https://github.com/scaled/markdown-mode.git Provides support for editing Markdown files.
 maven-project git:https://github.com/scaled/maven-project.git Provides Maven project support for Scaled.
 sbt-project git:https://github.com/scaled/sbt-project.git Provides SBT project support for Scaled.
 scala-mode git:https://github.com/scaled/scala-mode.git Provides language support for Scala.
