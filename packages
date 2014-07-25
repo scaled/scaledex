@@ -1,3 +1,4 @@
+ack-mode git:https://github.com/scaled/ack-mode.git Integrates `ack` with Scaled project services.
 java-mode git:https://github.com/scaled/java-mode.git Provides language support for Java.
 markdown-mode git:https://github.com/scaled/markdown-mode.git Provides support for editing Markdown files.
 maven-project git:https://github.com/scaled/maven-project.git Provides Maven project support for Scaled.
