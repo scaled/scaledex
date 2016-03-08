@@ -7,6 +7,7 @@ sbt-project git:https://github.com/scaled/sbt-project.git Provides SBT project s
 scala-mode git:https://github.com/scaled/scala-mode.git Provides language support for Scala.
 scaled git:https://github.com/scaled/scaled.git The Scaled editor. The main thing. The big kahuna.
 scaled-project git:https://github.com/scaled/scaled-project.git Provides project support for Scaled Pacman projects.
+sh-mode git:https://github.com/scaled/sh-mode.git Major mode for editing shell scripts.
 snippet-mode git:https://github.com/scaled/snippet-mode.git Enables insertion of code snippets.
 todo-mode git:https://github.com/scaled/todo-mode.git Provides support for editing TODO files.
 xml-mode git:https://github.com/scaled/xml-mode.git Provides support for editing XML files.
