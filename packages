@@ -1,13 +1,21 @@
 ack-mode git:https://github.com/scaled/ack-mode.git Integrates `ack` with Scaled project services.
-groovy-mode git:https://github.com/scaled/groovy-mode.git Provides language support for Groovy.
-java-mode git:https://github.com/scaled/java-mode.git Provides language support for Java.
-markdown-mode git:https://github.com/scaled/markdown-mode.git Provides support for editing Markdown files.
-maven-project git:https://github.com/scaled/maven-project.git Provides Maven project support for Scaled.
-sbt-project git:https://github.com/scaled/sbt-project.git Provides SBT project support for Scaled.
-scala-mode git:https://github.com/scaled/scala-mode.git Provides language support for Scala.
+charp-mode git:https://github.com/scaled/csharp-mode.git Major mode for editing C# code.
+gradle-project git:https://github.com/scaled/gradle-project.git Gradle project support for Scaled.
+groovy-mode git:https://github.com/scaled/groovy-mode.git Major mode for editing Groovy code.
+html-mode git:https://github.com/scaled/html-mode.git Major mode for editing HTML.
+java-mode git:https://github.com/scaled/java-mode.git Major mode for editing Java code.
+javascript-mode git:https://github.com/scaled/javascript-mode.git Major mode for editing JavaScript code.
+kotlin-mode git:https://github.com/scaled/kotlin-mode.git Major mode for editing Kotlin code.
+markdown-mode git:https://github.com/scaled/markdown-mode.git Major mode for editing Markdown files.
+maven-project git:https://github.com/scaled/maven-project.git Maven project support for Scaled.
+sbt-project git:https://github.com/scaled/sbt-project.git SBT project support for Scaled.
+scala-mode git:https://github.com/scaled/scala-mode.git Major mode for editing Scala code.
 scaled git:https://github.com/scaled/scaled.git The Scaled editor. The main thing. The big kahuna.
-scaled-project git:https://github.com/scaled/scaled-project.git Provides project support for Scaled Pacman projects.
+scaled-project git:https://github.com/scaled/scaled-project.git Project support for Scaled Pacman projects.
 sh-mode git:https://github.com/scaled/sh-mode.git Major mode for editing shell scripts.
 snippet-mode git:https://github.com/scaled/snippet-mode.git Enables insertion of code snippets.
-todo-mode git:https://github.com/scaled/todo-mode.git Provides support for editing TODO files.
-xml-mode git:https://github.com/scaled/xml-mode.git Provides support for editing XML files.
+swissarmy-project git:https://github.com/scaled/swissarmy-project.git Project support for ad hoc projects.
+thrift-mode git:https://github.com/scaled/thrift-mode.git Major mode for editing Thift IDL files.
+todo-mode git:https://github.com/scaled/todo-mode.git Major mode for editing TODO files.
+typescript-mode git:https://github.com/scaled/typescript-mode.git Major mode for editing TypeScript code.
+xml-mode git:https://github.com/scaled/xml-mode.git Major mode for editing XML files.
