@@ -1,5 +1,5 @@
 ack-mode git:https://github.com/scaled/ack-mode.git Integrates `ack` with Scaled project services.
-charp-mode git:https://github.com/scaled/csharp-mode.git Major mode for editing C# code.
+csharp-mode git:https://github.com/scaled/csharp-mode.git Major mode for editing C# code.
 gradle-project git:https://github.com/scaled/gradle-project.git Gradle project support for Scaled.
 groovy-mode git:https://github.com/scaled/groovy-mode.git Major mode for editing Groovy code.
 html-mode git:https://github.com/scaled/html-mode.git Major mode for editing HTML.
