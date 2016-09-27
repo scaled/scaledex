@@ -1,6 +1,6 @@
 ack-mode git:https://github.com/scaled/ack-mode.git Integrates `ack` with Scaled project services.
-csharp-mode git:https://github.com/scaled/csharp-mode.git Major mode for editing C# code.
 cplusplus-mode git:https://github.com/scaled/cplusplus-mode.git Major mode for editing C/C++ code.
+csharp-mode git:https://github.com/scaled/csharp-mode.git Major mode for editing C# code.
 gradle-project git:https://github.com/scaled/gradle-project.git Gradle project support for Scaled.
 groovy-mode git:https://github.com/scaled/groovy-mode.git Major mode for editing Groovy code.
 html-mode git:https://github.com/scaled/html-mode.git Major mode for editing HTML.
@@ -19,4 +19,5 @@ swissarmy-project git:https://github.com/scaled/swissarmy-project.git Project su
 thrift-mode git:https://github.com/scaled/thrift-mode.git Major mode for editing Thift IDL files.
 todo-mode git:https://github.com/scaled/todo-mode.git Major mode for editing TODO files.
 typescript-mode git:https://github.com/scaled/typescript-mode.git Major mode for editing TypeScript code.
+vcs-project git:https://github.com/scaled/vcs-project.git Version control support for Scaled.
 xml-mode git:https://github.com/scaled/xml-mode.git Major mode for editing XML files.
