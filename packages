@@ -6,6 +6,7 @@ groovy-mode git:https://github.com/scaled/groovy-mode.git Major mode for editing
 html-mode git:https://github.com/scaled/html-mode.git Major mode for editing HTML.
 java-mode git:https://github.com/scaled/java-mode.git Major mode for editing Java code.
 javascript-mode git:https://github.com/scaled/javascript-mode.git Major mode for editing JavaScript code.
+javascript-project git:https://github.com/scaled/javascript-project.git Project support for JavaScript projects.
 kotlin-mode git:https://github.com/scaled/kotlin-mode.git Major mode for editing Kotlin code.
 markdown-mode git:https://github.com/scaled/markdown-mode.git Major mode for editing Markdown files.
 maven-project git:https://github.com/scaled/maven-project.git Maven project support for Scaled.
