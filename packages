@@ -8,6 +8,7 @@ java-mode git:https://github.com/scaled/java-mode.git Major mode for editing Jav
 javascript-mode git:https://github.com/scaled/javascript-mode.git Major mode for editing JavaScript code.
 javascript-project git:https://github.com/scaled/javascript-project.git Project support for JavaScript projects.
 kotlin-mode git:https://github.com/scaled/kotlin-mode.git Major mode for editing Kotlin code.
+lisp-mode git:https://github.com/scaled/lisp-mode.git Major mode for editing Lisp code.
 markdown-mode git:https://github.com/scaled/markdown-mode.git Major mode for editing Markdown files.
 maven-project git:https://github.com/scaled/maven-project.git Maven project support for Scaled.
 sbt-project git:https://github.com/scaled/sbt-project.git SBT project support for Scaled.
