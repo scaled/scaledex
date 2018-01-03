@@ -6,9 +6,7 @@ groovy-mode git:https://github.com/scaled/groovy-mode.git Major mode for editing
 html-mode git:https://github.com/scaled/html-mode.git Major mode for editing HTML.
 java-mode git:https://github.com/scaled/java-mode.git Major mode for editing Java code.
 javascript-mode git:https://github.com/scaled/javascript-mode.git Major mode for editing JavaScript code.
-javascript-project git:https://github.com/scaled/javascript-project.git Project support for JavaScript projects.
 kotlin-mode git:https://github.com/scaled/kotlin-mode.git Major mode for editing Kotlin code.
-langserver-project git:https://github.com/scaled/langserver-project.git Language server integration for projects.
 lisp-mode git:https://github.com/scaled/lisp-mode.git Major mode for editing Lisp code.
 markdown-mode git:https://github.com/scaled/markdown-mode.git Major mode for editing Markdown files.
 maven-project git:https://github.com/scaled/maven-project.git Maven project support for Scaled.
@@ -20,7 +18,6 @@ scaled git:https://github.com/scaled/scaled.git The Scaled editor. The main thin
 scaled-project git:https://github.com/scaled/scaled-project.git Project support for Scaled Pacman projects.
 sh-mode git:https://github.com/scaled/sh-mode.git Major mode for editing shell scripts.
 snippet-mode git:https://github.com/scaled/snippet-mode.git Enables insertion of code snippets.
-swissarmy-project git:https://github.com/scaled/swissarmy-project.git Project support for ad hoc projects.
 thrift-mode git:https://github.com/scaled/thrift-mode.git Major mode for editing Thift IDL files.
 todo-mode git:https://github.com/scaled/todo-mode.git Major mode for editing TODO files.
 typescript-mode git:https://github.com/scaled/typescript-mode.git Major mode for editing TypeScript code.
