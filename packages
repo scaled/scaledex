@@ -27,3 +27,4 @@ todo-mode git:https://github.com/scaled/todo-mode.git Major mode for editing TOD
 typescript-mode git:https://github.com/scaled/typescript-mode.git Major mode for editing TypeScript code.
 vcs-project git:https://github.com/scaled/vcs-project.git Version control support for Scaled.
 xml-mode git:https://github.com/scaled/xml-mode.git Major mode for editing XML files.
+yaml-mode git:https://github.com/scaled/yaml-mode.git Major mode for editing YAML files.
